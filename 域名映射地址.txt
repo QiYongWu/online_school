@@ -1,0 +1,10 @@
+192.168.150.101 git.tianji.com
+192.168.150.101 jenkins.tianji.com
+192.168.150.101 mq.tianji.com
+192.168.150.101 nacos.tianji.com
+192.168.150.101 xxljob.tianji.com
+192.168.150.101 es.tianji.com
+192.168.150.101 api.tianji.com
+192.168.150.101 www.tianji.com
+192.168.150.101 manage.tianji.com
+
